@@ -4,5 +4,8 @@ public class LoginMain {
         System.out.println("huzhongkang!");
     }
 
+    public String getUsername(){
+        return "huzhongkang";
 
+    };
 }
